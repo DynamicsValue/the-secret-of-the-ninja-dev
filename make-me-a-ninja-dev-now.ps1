@@ -1,4 +1,4 @@
-#This script is AS IS under an Apache 2.0 license. Please see license file
+#This script comes AS IS under an Apache 2.0 license. Please see license file (LICENSE)
 
 Write-Host 'Making you a ninja dev now! This might take some time!' -ForegroundColor Green 
 
