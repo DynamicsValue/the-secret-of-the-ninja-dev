@@ -1,3 +1,5 @@
+Disclaimer: this is just a satire & research project, use it as your sole responsibility.
+
 # The Secret of the Ninja Dev
 
 This repository contains the most hidden secret of ninja developers alike of all time : a secret hidden for centuries that will make your GitHub contribution activity explode!
