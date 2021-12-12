@@ -2,7 +2,7 @@
 
 Write-Host 'Making you a ninja dev now! This might take some time!' -ForegroundColor Green 
 
-# Limited to just 1 iteration:
+# This is a research project limited to just 1 iteration.
 # Uncommenting these lines might infringe Acceptable Use Policy of GitHub https://docs.github.com/en/github/site-policy/github-acceptable-use-policies
 # and we take absolutely no responsiblity for it! You've been WARNED!
 
