@@ -10,7 +10,7 @@ Come on! Ninja developers who reach Chuck Norris level don't build software, the
 
 For entry level ones, you might just run this script, which needs .net core 3.1 and powershell core.
 
-    .\make-me-a-ninja-dev-now.ps1
+    pwsh .\make-me-a-ninja-dev-now.ps1
 
 
 # Contributing
