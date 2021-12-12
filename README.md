@@ -1,5 +1,3 @@
-Disclaimer: this is just a satire & research project, use it as your sole responsibility.
-
 # The Secret of the Ninja Dev
 
 This repository contains the most hidden secret of ninja developers alike of all time : a secret hidden for centuries that will make your GitHub contribution activity explode!
@@ -34,4 +32,7 @@ We did conduct a study to measure the actual value that our OSS framework, [Fake
 
 Also, when a company looks for ninja developers usually is a red flag where they want individuals to get the job of an entire department done while paying them an entry-level, junior salary. Stay away of these, for your own health & safety.
 
+**This is also a research project. Automating inauthentic activity might infringe Acceptable Use Policy of GitHub https://docs.github.com/en/github/site-policy/github-acceptable-use-policies.**  
+
+**Don't do it!!**
 
